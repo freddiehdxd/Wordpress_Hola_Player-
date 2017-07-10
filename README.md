@@ -20,3 +20,5 @@ Multi platform (desktop and mobile devices)
 Player API
 
 Result we want similar to this http://prntscr.com/ftp0tm
+
+Panel Sugesting we can create http://prntscr.com/ftp2hz
