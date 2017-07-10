@@ -18,3 +18,5 @@ HTML/CSS skin system
 Plugin support
 Multi platform (desktop and mobile devices)
 Player API
+
+Result we want similar to this http://prntscr.com/ftp0tm
